@@ -13,7 +13,7 @@ client: Bot = commands.Bot(command_prefix = '.')
 
 @client.event
 async def on_ready():
-    await client.change_presence(activity=discord.Game('sua mae na cama'))
+    await client.change_presence(activity=discord.Game('sei la'))
     print('bot online')
 
 #comando para checar o ms do servidor

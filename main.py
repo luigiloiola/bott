@@ -164,7 +164,6 @@ async def gp(ctx,*,member : discord.Member):
     channel = discord.utils.get(ctx.guild.channels, name='barril')
     await member.move_to(channel)
 
-#calcula o desvio padrao de uma lista
 
 
 

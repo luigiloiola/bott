@@ -170,5 +170,5 @@ async def gp(ctx,*,member : discord.Member):
 
                                                                      #await channel.send(f'{msg.content}')
 
-client.run('ODMzNTgwOTU2OTYyOTE0NDA0.YH0aww.qOJshasptXiUGH252AS_pETURA4')
+client.run('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')
 #id=   834293526132162580        834127252693188649, 'guild_id'
